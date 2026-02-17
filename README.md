@@ -1,2 +1,2 @@
-# java-hw2-milespergallonapp
+# java-hw3-milespergallonapp
 3-1 Miles Per Gallon Application 
